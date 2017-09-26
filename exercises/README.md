@@ -19,14 +19,24 @@ Exercise 3.  Intro to locators and find_element
 Exercise 4.  Actioning webelements
   Highlighting
 
-Exercise 5. Frames (working with iFrames)
+Exercise 5. 
+
+* Frames (working with iFrames)
 
 See how certain APIs are implemented differently per browser.
 
 
-Exercise 6. Alerts, Modals, FileOpenDialog
+* Alerts, Modals, FileOpenDialog
 
+* Actions
 
-Exercise 7. Intro to Frameworks (RSpec)
+Basics
+* Ruby Classes
+* Intro to Frameworks (RSpec)
+* Page Objects
+
+Common utils
+
+End to End exsample
 
 
